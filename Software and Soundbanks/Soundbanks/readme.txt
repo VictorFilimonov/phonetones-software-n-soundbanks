@@ -1,0 +1,1 @@
+While some of the SF2 soundfonts here are direct conversions from the original soundbanks, many of these have also been manually created by contributors from scratch. As a result, these may be of varying degrees of accuracy, so don't expect these to sound perfect. The DLS-to-SF2 soundfonts are direct rips so they are almost accurate to how they sound on real hardware.
